@@ -12,7 +12,7 @@
 - 💻 Frontend-first developer who also ships full backends (Node/Express, PHP, MySQL, SQLite)
 - 🛠️ I like building things people would actually use — not just tutorial clones
 - 🌍 Comfortable working in both Arabic (RTL) and English interfaces
-- 📫 Reach me at **m.ramadan.sfi@gmail.com**
+- 📫 Reach me at **younisexdmohamed077@gmail.com**
 
 ---
 
