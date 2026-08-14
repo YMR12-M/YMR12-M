@@ -58,4 +58,14 @@
 
 ---
 
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://tiktok.com/@younis.mohamed.ramadan"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
+  <a href="https://facebook.com/Younis.Mohamed.Ramdan"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/younis.mo7amed"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
 <p align="center"><i>Always open to freelance work and full-stack roles — feel free to reach out!</i></p>
