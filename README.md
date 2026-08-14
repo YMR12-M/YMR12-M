@@ -62,6 +62,8 @@
 ### 🔗 Connect with Me
 
 <p align="left">
+  <a href="mailto:younisexdmohamed077@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+201222272498"><img src="https://img.shields.io/badge/Phone-+20%20122%20227%202498-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <a href="https://tiktok.com/@younis.mohamed.ramadan"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
   <a href="https://facebook.com/Younis.Mohamed.Ramdan"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/younis.mo7amed"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
