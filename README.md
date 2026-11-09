@@ -6,23 +6,10 @@ I build practical, real-world products — a medication-care platform, a restaur
 </p>
 
 <p align="center">
-<a href="https://protofilo-eta.vercel.app"><b>Portfolio</b></a> ·
+<a href="https://protofilo-a2au.vercel.app"><b>Portfolio</b></a> ·
 <a href="mailto:younisexdmohamed077@gmail.com"><b>Email</b></a> ·
 <a href="https://github.com/YMR12-M?tab=repositories"><b>All repositories</b></a>
 </p>
-
----
-
-### ⭐ Flagship project — Ma3ak (معاك)
-
-**An elderly-care platform that makes sure the dose actually gets taken** — built for patients and the family who look after them.
-
-- 🔔 **Reminders that don't give up** — every dose is a state, not a one-off notification: an alarm that arrives even when the app is closed (Web Push + Service Worker), a "Taken" button inside the notification itself, a second reminder, an alert to the caregiver if the dose is missed, and escalation if the patient doesn't respond at all.
-- 👨‍👩‍👧 **Caregiver role** — a son, daughter or nurse follows the patient's status as it happens.
-- 🩺 **Appointments & health metrics** — medical appointments and measurements tracked in one place.
-- 🧱 **Stack** — React + esbuild · Node.js / Express · MySQL · Web Push (VAPID). Full docs (architecture, API, database, setup, deployment) live in the repo; there is a free no-backend demo build on Vercel and the full version runs on Render.
-
-[**Live demo**](https://ma3ak-rose.vercel.app) · [**Code**](https://github.com/YMR12-M/Ma3ak) · [**Docs**](https://github.com/YMR12-M/Ma3ak/tree/HEAD/docs)
 
 ---
 
@@ -30,12 +17,13 @@ I build practical, real-world products — a medication-care platform, a restaur
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| 🍽️ **AMBER POS** (عنبر) | Restaurant & café management — runs an order from the first tap to the final invoice on one screen, with an admin dashboard for sections, items and tables | TypeScript · React · Vite · Node.js · Express · MySQL | [Demo](https://amber-pos.vercel.app) · [Code](https://github.com/YMR12-M/amber-pos) |
+| 🧓 **Ma3ak** | Elderly-care platform that makes sure the dose actually gets taken — alarms that arrive even when the app is closed, a "Taken" button inside the notification, escalating reminders, caregiver alerts, appointments and health metrics | React · esbuild · Node.js · Express · MySQL · Web Push | [Demo](https://ma3ak-rose.vercel.app) · [Code](https://github.com/YMR12-M/Ma3ak) · [Docs](https://github.com/YMR12-M/Ma3ak/tree/HEAD/docs) |
+| 🍽️ **AMBER POS** | Restaurant & café management — runs an order from the first tap to the final invoice on one screen, with an admin dashboard for sections, items and tables | TypeScript · React · Vite · Node.js · Express · MySQL | [Demo](https://amber-pos.vercel.app) · [Code](https://github.com/YMR12-M/amber-pos) |
 | 🚗 **DR.Care** | Car-wash booking & management system (Arabic RTL PWA) — online booking, packages & pricing, order tracking, customer accounts, admin panel, POS, push notifications, coupons and reviews | JavaScript · PWA | [Demo](https://drcare-wash.vercel.app) · [Code](https://github.com/YMR12-M/DR.Care) |
-| 🛒 **Rumman** (رُمّان) | Multi-branch supermarket platform — a complete online store for a supermarket chain in Egypt, Arabic RTL, with a brand identity built around the pomegranate | React 18 · Vite · Node.js · Express · MySQL 8 · JWT | [Demo](https://rumman-market.vercel.app) · [Code](https://github.com/YMR12-M/rumman-market) |
-| 💸 **Masrofy** (مصروفي) | Family expense tracker for the Egyptian market — the whole family logs in one place and every member keeps a private pocket; roles from owner to view-only; cash, bank, e-wallet, card and savings accounts, shared or private | React (Vite) · Node.js · Express · MySQL | [Demo](https://masrofy-app.vercel.app) · [Code](https://github.com/YMR12-M/Masrofy) |
-| 💈 **Naeeman** (نعيمًا) | Barbershop queue without the waiting room — customers take a turn from their phone or a tablet at the door, see how many are ahead and get notified when it's close; the barber's job is one button: "Next". Shop dashboard for owner, manager and reception | JavaScript · Node.js · Docker | [Code](https://github.com/YMR12-M/Naeeman) |
-| 🏨 **Nozol** (نُزُل) | Hospitality management system (Arabic) — guests, reservations, billing, inventory & pricing and daily operations | JavaScript · Node.js · SQL | [Demo](https://nozol.vercel.app) · [Code](https://github.com/YMR12-M/Nozol) |
+| 🛒 **Rumman** | Multi-branch supermarket platform — a complete online store for a supermarket chain in Egypt, Arabic RTL, with a brand identity built around the pomegranate | React 18 · Vite · Node.js · Express · MySQL 8 · JWT | [Demo](https://rumman-market.vercel.app) · [Code](https://github.com/YMR12-M/rumman-market) |
+| 💸 **Masrofy** | Family expense tracker for the Egyptian market — the whole family logs in one place and every member keeps a private pocket; roles from owner to view-only; cash, bank, e-wallet, card and savings accounts, shared or private | React (Vite) · Node.js · Express · MySQL | [Demo](https://masrofy-app.vercel.app) · [Code](https://github.com/YMR12-M/Masrofy) |
+| 💈 **Naeeman** | Barbershop queue without the waiting room — customers take a turn from their phone or a tablet at the door, see how many are ahead and get notified when it's close; the barber's job is one button: "Next". Shop dashboard for owner, manager and reception | JavaScript · Node.js · Docker | [Code](https://github.com/YMR12-M/Naeeman) |
+| 🏨 **Nozol** | Hospitality management system (Arabic) — guests, reservations, billing, inventory & pricing and daily operations | JavaScript · Node.js · SQL | [Demo](https://nozol.vercel.app) · [Code](https://github.com/YMR12-M/Nozol) |
 | 🥗 **Fitness & Macro Tracker** | FitTrack Pro — daily nutrition, workouts, weight progress and goals, with a TDEE / macro calculator and progress charts | Vanilla JS · Chart.js · Node.js serverless API | [Demo](https://fitness-macro-tracker.vercel.app) · [Code](https://github.com/YMR12-M/fitness-macro-tracker) |
 
 <details>
@@ -58,11 +46,16 @@ I build practical, real-world products — a medication-care platform, a restaur
 
 ### 🚀 About me
 
-- 💻 Frontend-first developer who also ships full backends (Node/Express, MySQL)
-- 🛠️ I like building things people would actually use — not just tutorial clones
-- 🌍 Comfortable in both Arabic (RTL) and English interfaces
-- 📫 Email: **younisexdmohamed077@gmail.com**
-- 📱 Phone: **+20 122 227 2498**
+I'm a full-stack developer from Egypt with a frontend-first mindset. I like owning a product end to end — the interface, the API, the database and the deployment — and building things people would actually use, not tutorial clones.
+
+- 🏪 **Systems real businesses run on** — POS, booking, queue management, e-commerce and family-finance apps for restaurants, car washes, barbershops and supermarkets.
+- 🌍 **Arabic-first products** — right-to-left interfaces built for the Egyptian market, and comfortable switching between Arabic and English.
+- 📲 **Installable and always on** — PWAs and Web Push notifications that reach users even when the app is closed.
+- 🧱 **Production habits** — documented APIs and setup guides, SQL migrations, Docker, CI checks, and deployments on Vercel and Render.
+- 🛠️ **Day-to-day stack** — React, TypeScript, Node.js, Express and MySQL.
+
+📫 **Email:** younisexdmohamed077@gmail.com  
+📱 **Phone:** +20 122 227 2498
 
 ---
 
@@ -89,7 +82,7 @@ I build practical, real-world products — a medication-care platform, a restaur
 ### 🔗 Connect with me
 
 <p align="left">
-<a href="https://protofilo-eta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://protofilo-a2au.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="mailto:younisexdmohamed077@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="tel:+201222272498"><img src="https://img.shields.io/badge/Phone-+20%20122%20227%202498-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 <a href="https://tiktok.com/@younis.mohamed.ramadan"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
